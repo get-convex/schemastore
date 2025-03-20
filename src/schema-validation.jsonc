@@ -301,6 +301,7 @@
     // Below this line are subschemas that are included from other schema
     "base.json",
     "base-04.json",
+    "convex.json", // Using external URL from Convex repository
     "partial-pyright.json", // pyproject.json[tool.pyright]
     "partial-setuptools.json", // pyproject.json[tool.setuptools]
     "partial-setuptools-scm.json", // pyproject.json[tool.setuptools-scm]
